@@ -48,5 +48,5 @@ This repository contains a library of my notes on the first half of the content 
 
 ### To Clone This Repository
 ```
-git clone https://github.com/franpanteli/Python-TensorFlow-Library.git
+git clone https://github.com/franpanteli/Python-Bootcamp-Module-4-GitHub-and-the-Command-Line.git
 ```
