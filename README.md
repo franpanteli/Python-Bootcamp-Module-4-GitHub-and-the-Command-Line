@@ -13,9 +13,9 @@ This repository contains a library of my notes on the first half of the content 
 - **Framework:** TensorFlow
   
 ### Course Sections Covered For "TensorFlow"
-- [1 of 3 Comparison Operators in Python](https://github.com/franpanteli/Python-Bootcamp-Module-3-Python-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%203%20Python%20Objects%20and%20Data%20Structures/1%20of%2036%20Introduction%20to%20Python%20Data%20Types.pdf)
-- [2 of 36 Python Numbers](https://github.com/franpanteli/Python-Bootcamp-Module-3-Python-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%203%20Python%20Objects%20and%20Data%20Structures/2%20of%2036%20Python%20Numbers.pdf)
-- [3 of 36 Coding Exercise 1_ Numbers_ Simple Arithmetic](https://github.com/franpanteli/Python-Bootcamp-Module-3-Python-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%203%20Python%20Objects%20and%20Data%20Structures/3%20of%2036%20Coding%20Exercise%201_%20Numbers_%20Simple%20Arithmetic.pdf)
+- [1 of 3 Comparison Operators in Python](https://github.com/franpanteli/Python-Bootcamp-Module-4-GitHub-and-the-Command-Line/blob/main/Notes%20on%20Videos%20-%20Module%204%20GitHub%20and%20the%20Command%20Line/1%20of%203%20Comparison%20Operators%20in%20Python.pdf)
+- [2 of 3 Chaining comparison operators in Python with Logical Operators](https://github.com/franpanteli/Python-Bootcamp-Module-4-GitHub-and-the-Command-Line/blob/main/Notes%20on%20Videos%20-%20Module%204%20GitHub%20and%20the%20Command%20Line/2%20of%203%20Chaining%20comparison%20operators%20in%20Python%20with%20Logical%20Operators.pdf)
+- [3 of 3 Quiz 7_ Comparison Operators Quiz](https://github.com/franpanteli/Python-Bootcamp-Module-4-GitHub-and-the-Command-Line/blob/main/Notes%20on%20Videos%20-%20Module%204%20GitHub%20and%20the%20Command%20Line/3%20of%203%20Quiz%207_%20Comparison%20Operators%20Quiz.pdf)
 
 ### To Clone This Repository
 ```
