@@ -1,7 +1,7 @@
 # Module-4-GitHub-and-the-Command-Line
 ### Repository Overview
 
-This repository contains my notes and project files for the fourth module of a Python 'bootcamp' focused on GitHub and the command line. The course covered fundamental concepts related to version control, Git commands, and practical uses of the command line in a development environment.
+This repository contains my notes and project files for the fourth module of a Python 'bootcamp' I completed as part of my independent learning. This was an in-depth Udemy course with 156 video lectures and exercises, to be completed in a Jupyter environment. This repository includes my notes on the videos for this module and the slides from the lectures which they were made on.
 
 ### Course Details
 - **Course URL:** [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?couponCode=ST18MT62524)
